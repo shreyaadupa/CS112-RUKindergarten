@@ -1,5 +1,7 @@
 ## Getting Started
 
+This is the RUKindergarden assignment for Rutgers CS112. Note to future students: this was not a nice assignment so there might be a couple bugs in this code. Hopefully you have fun with it! 
+
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
