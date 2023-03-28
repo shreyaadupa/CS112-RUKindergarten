@@ -3,7 +3,7 @@ Hi! 👋 I'm Shreya! 🤗
 
 This is the RUKindergarten Assignment from the Rutgers CS112 Course. 
 
-Note to future students: it's an overall easy assignment! Have fun with it!
+Note to future students: it's a crazy assignment! Make sure to read carefully! 
 
 Below are the assignment instructions:
 
